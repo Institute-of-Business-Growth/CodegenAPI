@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard] # For running the server
+python-dotenv     # To load .env file for local development
+codegen           # The Codegen SDK package (adjust name if needed)
+pydantic          # For data validation (often included with fastapi)
